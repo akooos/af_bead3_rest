@@ -36,7 +36,7 @@ Web Applications Development Homework 3
 
 ###Server oldalon: 
 
-- Op. rendszer: Windows/Linux...(Linux ajánlot)
+- Op. rendszer: Windows/Linux...(Linux ajánlott)
 - NodeJS
 
 ###Kliens oldalon: 
