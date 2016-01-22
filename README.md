@@ -29,7 +29,6 @@ Web Applications Development Homework 3
 |--------------------------|---------------------------------------------------|
 | /.db                     | adatok tárhelye                                   |
 
-
 # Felhasználói dokumentáció
 
 ## A futtatáshoz ajánlott hardver-, szoftver konfiguráció

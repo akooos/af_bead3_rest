@@ -9,7 +9,9 @@ var jsonapi = require('fortune-json-api');
 var store  = fortune({
     adapter: {
         type: nedbAdapter,
-        options: { dbPath: __dirname + '/.db' }
+        options: { dbPath: __dirname + '/.db' ,
+            primaryKeyType: Number
+        }
     },
     serializers: [{ type: jsonapi }]    
 });
