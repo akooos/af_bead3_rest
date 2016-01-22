@@ -1,3 +1,5 @@
+Web Applications Development Homework 3
+
 # Követelményanalízis
 
 ## Funkcionális követelmények
@@ -62,3 +64,5 @@
 ####Szerver indítása:
 
 `node server.js`
+=======
+
